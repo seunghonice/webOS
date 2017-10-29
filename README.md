@@ -19,6 +19,6 @@ frontend: react ver 16.0.0 && webpack: ver 3.7.1
 [Spring Tutorials React.js and Spring Data REST](https://spring.io/guides/tutorials/react-and-spring-data-rest/)  
 [Webpack Documentation](https://webpack.js.org/concepts/)  
 
-thanks for [anomie7]: https://github.com/anomie7
 
-and reference [blog] : http://www.anomie7.xyz/37
+thanks for [anomie7](https://github.com/anomie7)
+and reference [blog](http://www.anomie7.xyz/37)
