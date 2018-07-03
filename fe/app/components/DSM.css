@@ -1,0 +1,20 @@
+.rt-table {
+}
+.rt-td {
+	width: 30px;
+}
+.td {
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+	background-color: #F5F8FA;
+}
+.rowTd {
+	width: 150px;
+}
+	.serviceName {
+		float: left;
+	}
+	.serviceNumber {
+		float: right;
+	}

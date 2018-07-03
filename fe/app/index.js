@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/App';
-import './style.css'
+import Container from './components/Container.js';
+import './index.css'
 
-const rootElement = document.getElementById('react');    
-ReactDOM.render(<App/>, rootElement);
+const rootElement = document.getElementById('container');    
+ReactDOM.render(<Container />, rootElement);
 
 if (module.hot) {
     module.hot.accept();
